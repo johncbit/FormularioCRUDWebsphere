@@ -5,7 +5,7 @@
 	src="https://cdn.pixabay.com/photo/2016/04/15/18/05/computer-1331579_960_720.png" style="margin:20px">
 
 
-<table border="1" width="100%" align="center">
+<table class="text-light" border="1" width="100%" align="center">
 	<tr>
 		<td>Id Empleado</td>
 		<td>Título</td>

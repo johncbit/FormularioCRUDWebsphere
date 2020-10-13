@@ -11,15 +11,15 @@
 			<table class="table" border="1" align="center">
 				<tr class="table-light">
 					<td>Titulo Empleado:</a></td>
-					<td><input type="text" name="titulo_empleado" /></td>
+					<td><input type="text" maxlength="20"  name="titulo_empleado" /></td>
 				</tr>
 				<tr class="table-light">
 					<td>Nombres Empleado:</a></td>
-					<td><input type="text" name="nombres_empleado" /></td>
+					<td><input type="text" maxlength="50" name="nombres_empleado" /></td>
 				</tr>
 				<tr class="table-light">
 					<td>Apellidos Empleado:</a></td>
-					<td><input type="text" name="apellidos_empleado" /></td>
+					<td><input type="text" maxlength="50" name="apellidos_empleado" /></td>
 				</tr>
 			</table>
 			<br>
